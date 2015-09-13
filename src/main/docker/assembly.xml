@@ -5,10 +5,10 @@
     <dependencySets>
         <dependencySet>
             <includes>
-                <include>org.javaee7.sample:javaee7-docker-maven</include>
+                <include>org.javaee7.sample:javaee7-docker-workflow</include>
             </includes>
             <outputDirectory>.</outputDirectory>
-            <outputFileNameMapping>javaee7-docker-maven.war</outputFileNameMapping>
+            <outputFileNameMapping>javaee7-docker-workflow.war</outputFileNameMapping>
         </dependencySet>
     </dependencySets>
 </assembly>
