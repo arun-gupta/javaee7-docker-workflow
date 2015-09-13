@@ -79,7 +79,7 @@
                             <images>
                                 <image>
                                     <alias>user</alias>
-                                    <name>arungupta/javaee7-docker-maven</name>
+                                    <name>arungupta/javaee7-docker-workflow</name>
                                     <build>
                                         <from>jboss/wildfly:8.2.0.Final</from>
                                         <assembly>
