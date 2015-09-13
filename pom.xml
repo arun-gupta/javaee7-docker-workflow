@@ -11,7 +11,7 @@
         <org.wildfly>8.2.1.Final</org.wildfly>
     </properties>
    
-    <dependencyManagement>
+   <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>org.jboss.arquillian</groupId>
